@@ -1,6 +1,6 @@
 # Prim-Krukal
 
-A simple tkinter desktop apllication that allows u see MST (Minimum Spanning Tree ) using 
+A simple tkinter desktop application that allows u see MST (Minimum Spanning Tree ) using 
 **Prim**  or **Krukal** algorithms
 # How It Works
 
@@ -11,7 +11,7 @@ A simple tkinter desktop apllication that allows u see MST (Minimum Spanning Tre
  # **Technologies**
 
 >  Python
-![Alt text]((https://photos.google.com/share/AF1QipMZphubM-4llugadEcuI9Z-0nDECVagGpZFxPB1Hkw9uISiP8pEuoQTAu03H5FaUw?key=SHV4S3plZHE3YV9nNkJfZHFxaU5qeDJOT1pMUGVR))
+![foxdemo](https://photos.google.com/share/AF1QipMZphubM-4llugadEcuI9Z-0nDECVagGpZFxPB1Hkw9uISiP8pEuoQTAu03H5FaUw?key=SHV4S3plZHE3YV9nNkJfZHFxaU5qeDJOT1pMUGVR)
 
 
  
