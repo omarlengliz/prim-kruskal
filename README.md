@@ -11,5 +11,7 @@ A simple tkinter desktop apllication that allows u see MST (Minimum Spanning Tre
  # **Technologies**
 
 >  Python
+![Screenshot](screenshot.png)
+
 
  
