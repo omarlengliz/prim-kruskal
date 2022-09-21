@@ -4,10 +4,12 @@ A simple tkinter desktop application that allows u see MST (Minimum Spanning Tre
 **Prim**  or **Krukal** algorithms
 # How It Works
 
- 1. Write your graph adjacency matrix on the Text Field
- 2. Press "Save button" 
- 3. Choose either **prim** or **kruskal** algorithm by pressing the buttons
- 4. The MST will be shown
+ 1. Install missing libraries 
+ 2. Run graph.py file
+ 3. Write your graph adjacency matrix on the Text Field
+ 4. Press "Save button" 
+ 5. Choose either **prim** or **kruskal** algorithm by pressing the buttons
+ 6. The MST will be shown
  # **Technologies**
 
 >  Python
